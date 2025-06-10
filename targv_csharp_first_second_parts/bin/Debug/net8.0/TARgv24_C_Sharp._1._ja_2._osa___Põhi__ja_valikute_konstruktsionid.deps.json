@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TARgv24_C_Sharp._1._ja_2._osa___Põhi__ja_valikute_konstruktsionid/1.0.0": {
+        "runtime": {
+          "TARgv24_C_Sharp._1._ja_2._osa___Põhi__ja_valikute_konstruktsionid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TARgv24_C_Sharp._1._ja_2._osa___Põhi__ja_valikute_konstruktsionid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
