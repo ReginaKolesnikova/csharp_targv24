@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace kangelane_csharp
+namespace csharp_targv24.Kangelane
 {
     class superkangelane: Kangelane
     {
