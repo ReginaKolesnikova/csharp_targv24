@@ -5,9 +5,8 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using targv_csharp_fifth_part;
 
-namespace targv_csharp_fifth_part
+namespace csharp_targv24.targv_csharp_fifth_part
 {
     internal class mainclass_task
     {
