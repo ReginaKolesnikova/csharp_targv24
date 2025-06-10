@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace targv_csharp_fifth_part
+namespace csharp_targv24.targv_csharp_fifth_part
 {
     internal class mainclass5
     {
