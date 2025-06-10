@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace targv_csharp_fourth_part
+namespace csharp_targv24.targv_csharp_fourth_part
 {
     internal class funktsioonideclass4
     {
