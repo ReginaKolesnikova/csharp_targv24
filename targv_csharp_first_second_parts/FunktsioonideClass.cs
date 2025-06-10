@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace targv_csharp_osa_1_2
+namespace csharp_targv24.targv_csharp_osa_1_2
 {
     class FunktsioonideClass_1_2osa
     {
