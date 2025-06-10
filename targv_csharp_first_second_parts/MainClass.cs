@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace targv_csharp_osa_1_2
+namespace csharp_targv24.targv_csharp_osa_1_2
 {
     internal class MainClass_1_2osa
     {
